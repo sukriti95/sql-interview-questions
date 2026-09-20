@@ -1,0 +1,11 @@
+create database SQl_inteview_Question;
+-- 1.Find the employee with the highest salary.
+-- 2.Find the employee with the lowest salary.
+-- 3.Find the average salary of all employees.
+-- 4.Find the total salary paid to all employees.
+-- 5.Find employees whose salary is greater than the company's average salary.
+-- 6. Employees Earning More Than ₹80,000
+-- 7.Find the highest salary in each department.
+-- 8. Average Salary by Department
+-- 9. Department with Highest Average Salary
+-- 10.Find salaries that are earned by more than one employee.
