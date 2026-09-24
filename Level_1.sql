@@ -10,8 +10,13 @@ select e.employee_id,e.employee_name,s.salary from employees e join employee_sal
 Where s.salary = (select min(salary) from employee_salary);
 
 -- 3.Find the average salary of all employees.
+Select Avg(Salary) From employee_salary;
+
 -- 4.Find the total salary paid to all employees.
+select sum(Salary) From employee_salary;
+
 -- 5.Find employees whose salary is greater than the company's average salary.
+
 -- 6. Employees Earning More Than ₹80,000
 -- 7.Find the highest salary in each department.
 -- 8. Average Salary by Department
